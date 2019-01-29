@@ -65,7 +65,7 @@ ul {
 
 .footer {
     text-align: right;
-    background-color: rgb(245, 245, 245);
+    background-color: #fff;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -110,5 +110,11 @@ ul {
     padding-top: 5px;
     padding-bottom: 20px;
     background-color: #ffffff;
+    padding-left: 35px;
+}
+.content8 {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: rgb(245, 245, 245);
     padding-left: 35px;
 }
